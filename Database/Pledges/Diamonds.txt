@@ -1,16 +1,16 @@
 Diamonds: 
-Brian Thompson
-Veronica
-Natasha
-Sarah
-Romeo
-Sarah
-Zoey
 Amy
+Cupid
+Romeo
+Zoey
 Kevin
-Maria
-Brick
-Zaya
-Brian Thompson
+Amy
+Matt
+Sarah
+Natasha
+Matt
+Chloe
+Veronica
+Juliet
 
 

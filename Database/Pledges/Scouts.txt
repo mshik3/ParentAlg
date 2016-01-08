@@ -1,16 +1,16 @@
 Scouts: 
-Amber
-Romeo
-Zaya
-Natasha
-Cupid
-Matt
-Christopher
-Romeo
-Amber
-Juliet
-Zaya
+Brick
 Lucas
-Veronica
+Maria
+Cupid
+Amy
+Kevin
+Christopher
+Rachel
+Zaya
+Zoey
+Vanessa
+Zaya
+Susan
 
 
