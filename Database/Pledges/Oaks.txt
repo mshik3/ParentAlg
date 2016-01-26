@@ -1,16 +1,30 @@
 Oaks: 
-Amber
-Rachel
-Vanessa
-Christopher
-Natasha
-Romeo
-Brian Thompson
-Cupid
-Susan
-Zaya
-Zaya
-Stafa Shikora
-Sarah
+Zaya (sophomore)
+Natasha (junior)
+Maria (senior)
+Romeo (junior)
+Christopher (freshman)
+Malena (sophomore)
+Juliet (junior)
+Romeo (senior)
+Natasha (junior)
+Amber (senior)
+Zoey (freshman)
+Zaya (sophomore)
+Stafa Shikora (junior)
+Lucas (senior)
+Brick (junior)
+Zaya (freshman)
+Amy (sophomore)
+Cupid (senior)
+Romeo (junior)
+Matt (senior)
+Natasha (junior)
+Chloe (freshman)
+Juliet (sophomore)
+Vanessa (junior)
+Amber (senior)
+Natasha (senior)
+Natasha (senior)
 
 
