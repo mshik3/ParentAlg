@@ -1,17 +1,30 @@
 FMNs: 
-Romeo
-Susan
-Zaya
-Romeo
-Stafa Shikora
-Vanessa
-Brian Thompson
-Brick
-Amber
-Natasha
-Matt
-George
-Juliet
-Brian Thompson
+Veronica (sophomore)
+Lucas (junior)
+Juliet (senior)
+Veronica (junior)
+Romeo (senior)
+Rachel (freshman)
+Susan (sophomore)
+Vanessa (junior)
+Amy (senior)
+Kevin (junior)
+Zaya (freshman)
+Juliet (sophomore)
+Chloe (senior)
+Zoey (junior)
+Matt (senior)
+Sarah (junior)
+Zaya (freshman)
+Amy (sophomore)
+Romeo (junior)
+Veronica (senior)
+Sarah (junior)
+Romeo (freshman)
+Brian Thompson (sophomore)
+Veronica (senior)
+Stafa Shikora (junior)
+George (sophomore)
+Cupid (sophomore)
 
 

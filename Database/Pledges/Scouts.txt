@@ -1,16 +1,30 @@
 Scouts: 
-Brick
-Lucas
-Maria
-Cupid
-Amy
-Kevin
-Christopher
-Rachel
-Zaya
-Zoey
-Vanessa
-Zaya
-Susan
+Juliet (senior)
+Natasha (junior)
+Sarah (freshman)
+Rachel (sophomore)
+Maria (senior)
+Stafa Shikora (junior)
+Romeo (junior)
+Zaya (freshman)
+Cupid (sophomore)
+Stafa Shikora (junior)
+Matt (senior)
+Zaya (freshman)
+Sarah (sophomore)
+Romeo (junior)
+Matt (senior)
+Zaya (junior)
+Amy (senior)
+Zaya (freshman)
+Brian Thompson (sophomore)
+Lucas (junior)
+Malena (senior)
+Brian Thompson (junior)
+Susan (freshman)
+Christopher (sophomore)
+Christopher (junior)
+Susan (senior)
+Lucas (senior)
 
 

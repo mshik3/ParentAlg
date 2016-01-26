@@ -1,16 +1,30 @@
 Diamonds: 
-Amy
-Cupid
-Romeo
-Zoey
-Kevin
-Amy
-Matt
-Sarah
-Natasha
-Matt
-Chloe
-Veronica
-Juliet
+Matt (senior)
+Natasha (junior)
+Brick (senior)
+Malena (freshman)
+Veronica (sophomore)
+Natasha (junior)
+Romeo (senior)
+Amber (junior)
+Christopher (freshman)
+Vanessa (sophomore)
+Amber (senior)
+Brick (junior)
+Lucas (senior)
+Zoey (junior)
+Zoey (freshman)
+Malena (sophomore)
+Natasha (junior)
+Lucas (senior)
+Brian Thompson (junior)
+Zoey (freshman)
+Zaya (sophomore)
+Vanessa (senior)
+Rachel (junior)
+Chloe (senior)
+Sarah (freshman)
+Romeo (junior)
+Cupid (junior)
 
 

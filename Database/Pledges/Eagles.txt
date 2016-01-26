@@ -1,17 +1,30 @@
 Eagles: 
-Sarah
-Zaya
-Chloe
-Lucas
-Kevin
-George
-Natasha
-Juliet
-Romeo
-Maria
-Maria
-Veronica
-George
-Lucas
+Rachel (freshman)
+Chloe (sophomore)
+Maria (junior)
+Malena (senior)
+Brick (junior)
+Natasha (senior)
+Romeo (freshman)
+Rachel (sophomore)
+Brick (junior)
+Cupid (senior)
+Cupid (junior)
+Natasha (senior)
+Susan (freshman)
+Sarah (sophomore)
+Stafa Shikora (junior)
+Brick (senior)
+George (junior)
+Kevin (freshman)
+Susan (sophomore)
+Maria (junior)
+Maria (senior)
+Brian Thompson (junior)
+Susan (senior)
+Chloe (freshman)
+Christopher (sophomore)
+Amber (junior)
+Veronica (junior)
 
 
